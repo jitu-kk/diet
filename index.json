@@ -1,0 +1,68 @@
+{
+  "Diet": {
+    "Bulking": {
+      "BulkingProteinShake": {
+        "image": "https://media.istockphoto.com/id/1309362812/photo/protein-sport-shake-and-powder-fitness-food-and-drink-diet.jpg?s=612x612&w=0&k=20&c=F3BvT57tKI4ZgAoW7h_42TH4CwCd7VfH1x1vy3-_75Y=",
+        "ingredients": "1 cup of milk, 2 bananas, 1 tbsp of peanut butter, 1 scoop of protein powder, 1 cup of oats",
+        "nutritionalInfo": "Calories ≈ 1080 cal, Protein ≈ 60 grams"
+      },
+      "BaconEggSausage": {
+        "image": "https://media.istockphoto.com/id/166474007/photo/scrambled-eggs-and-sausages.jpg?s=612x612&w=0&k=20&c=PsXoCFSrUrPDlHzjYsrzlPAdgcKjVAj8tRh1iuppB0s=",
+        "ingredients": "4 strips of bacon, 2 eggs, 2 sausages",
+        "nutritionalInfo": "Calories ≈ 600 kcal, Protein ≈ 36 grams"
+      },
+      "WhitePastaWithPesto": {
+        "image": "https://media.istockphoto.com/id/180836471/photo/pasta-with-pesto-sauce.webp?b=1&s=170667a&w=0&k=20&c=rqgtkWQyT5IsXMISxZgTPsY4owL50qrwtGlAce76Qhw=",
+        "ingredients": "white pasta, pesto sauce",
+        "nutritionalInfo": "Calories ≈ 756 kcal, Protein ≈ 21 grams"
+      },
+      "SteakWithPotatoesandBeans": {
+        "image": "https://media.istockphoto.com/id/157695807/photo/filet-mignon.webp?b=1&s=170667a&w=0&k=20&c=Py_MVUjPTY2Y4ZN5d47bZ1JA0j0i7KN2nHplTWbatUQ=",
+        "ingredients": "beef steak, red potatoes, green beans",
+        "nutritionalInfo": "Calories ≈ 570 kcal, Protein ≈ 61 grams"
+      },
+      "Salmon": {
+        "image": "https://www.eatingwell.com/thmb/iVsckJA5aXdKGI4w1vF--fZSMRM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jerk-spiced-salmon-quinoa-bowl-2000-500000e449ca4f088117b7f4960a6189.jpg",
+        "ingredients": "1 ½ pounds skin-on salmon fillet, 8 tablespoons extra-virgin olive oil, 2 tablespoons jerk seasoning plus 1 teaspoon, 1 teaspoon paprika 4 teaspoons lime juice plus lime wedges for serving, 1 pound Brussels sprouts, ¾ teaspoon kosher salt, ¼ teaspoon ground pepper, 1 medium butternut squash, peeled and cut into 1/2-inch cubes, 1 large shallot, minced 2 cups low-sodium vegetable broth, plus more if needed 1 cup quinoa ¼ cup mango juice or nectar 2 tablespoons chopped fresh cilantro ¾ cup dried cranberries, coarsely chopped",
+        "nutritionalInfo": "Calories ≈ 570 kcal, Protein ≈ 61 grams"
+      },
+      "Ramen": {
+        "image": "https://media.foodspring.com/magazine/public/uploads/2022/03/March-2022-foodspring-205.jpg",
+        "ingredients": "0.5 leek, cleaned, cut into 2cm wide strips, 0.25 tbsp rapeseed oil, 2 cloves garlic, 0.5 tsp grated ginger, 250 ml chicken stock, 1 tbsp soy sauce, 0.5 tbsp Chinese chilli oil, 1 boneless, skinless chicken breast, 1 egg, 60 g wholewheat dry egg noodles, 22.5 g Peanut Butter, 1 bok choy, quartered, 30 ml soy milk or semi-skimmed milk, spring onions, thinly sliced",
+        "nutritionalInfo": "Calories ≈ 698 kcal, Protein ≈ 59 grams"
+      }
+    },
+    "Cutting": {
+      "CuttingProteinShake": {
+        "image": "https://images.unsplash.com/photo-1586707101133-4f0c4ce4e554?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHByb3RlaW4lMjBzaGFrZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "ingredients": "1 cup of milk, 1 cup of frozen berries, 1 scoop of protein powder",
+        "nutritionalInfo": "Calories ≈ 290 cal, Protein ≈ 20 grams"
+      },
+      "ChickpeaAndQuinoaBowl": {
+        "image": "https://media.istockphoto.com/id/1255390112/photo/garbanzos-fritos-hot-chickpea-stew-with-sliced-chorizo-ham-tomatoes-and-spices-in-a-skillet.jpg?s=612x612&w=0&k=20&c=usvA3u8LCrl7E0yHx5Ituc_OR7WZS_PEV3AqoQZ2Azs=",
+        "ingredients": "1 jar roasted red peppers, ¼ cup slivered almonds, 4 tablespoons extra-virgin olive oil, divided, 1 small clove garlic, 1 teaspoon paprika, ½ teaspoon ground cumin, ¼ teaspoon crushed red pepper, 2 cups cooked quinoa, ¼ cup Kalamata olives, chopped, ¼ cup finely chopped red onion, 1 can chickpeas, rinsed, 1 cup diced cucumber, ¼ cup crumbled feta cheese, 2 tablespoons finely chopped fresh parsley",
+        "nutritionalInfo": "Calories ≈ 379 cal, Protein ≈ 13 grams"
+      },
+      "Tostadas": {
+        "image": "https://media.istockphoto.com/id/1400865541/photo/picadillo-corn-tostadas-with-cheese-and-beans-mexican-food.jpg?s=612x612&w=0&k=20&c=4d8WCI5S7ulRaauh1JduDWCHdHBsTkJIoOSbp9C4gdw=",
+        "ingredients": "2 corn tortillas, ½ cup canned black beans, 2 tablespoons shredded Cheddar cheese, 2 teaspoons freshly squeezed lime juice, 2 teaspoons extra-virgin olive oil, 2 cups mixed salad greens, ¼ avocado, 2 tablespoons pico de gallo or salsa",
+        "nutritionalInfo": "Calories ≈ 457 cal, Protein ≈ 15 grams"
+      },
+      "Gnocchi": {
+        "image": "https://www.eatingwell.com/thmb/korkE5XZDwsrN-5FLy2PGWeTOgQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/white-bean-and-sun-dried-tomato-gnocchi-6735b7da5fd24e66bf70e3da569dad0a.jpg",
+        "ingredients": "½ cup sliced oil-packed sun-dried tomatoes plus 2 tablespoons oil from the jar, 1 (16 ounce) package shelf-stable gnocchi, 1 (15 ounce) can low-sodium cannellini beans, 1 (5 ounce) package baby spinach, 1 large shallot, ⅓ cup low-sodium no-chicken broth or chicken broth, ⅓ cup heavy cream, 1 tablespoon lemon juice, ¼ teaspoon salt, ¼ teaspoon ground pepper, 3 tablespoons fresh basil leaves",
+        "nutritionalInfo": "Calories ≈ 437 cal, Protein ≈ 14 grams"
+      },
+      "Soup": {
+        "image": "https://www.eatingwell.com/thmb/4SNJnHp8EsCzLNeP3XiWfscXsss=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegetable-weight-loss-soup-2000-2e0ce9c78262487ba976117018bce52a.jpg",
+        "ingredients": "2 tablespoons extra-virgin olive oil, 1 medium onion, 2 medium carrots, 2 stalks celery, 12 ounces fresh green beans, cut into 1/2-inch pieces, 2 cloves garlic, 8 cups no-salt-added chicken broth or low-sodium vegetable broth, 2 (15 ounce) cans low-sodium cannellini or other white beans, 4 cups chopped kale, 2 medium zucchini, 4 Roma tomatoes, 2 teaspoons red-wine vinegar, ¾ teaspoon salt, ½ teaspoon ground pepper, 8 teaspoons prepared pesto",
+        "nutritionalInfo": "Calories ≈ 225 cal, Protein ≈ 13 grams"
+      },
+      "Casserole": {
+        "image": "https://www.eatingwell.com/thmb/u1nINzCRJsAwQ_TR4IkXk3GgFS8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/easy-chicken-enchilada-casserole-6ac85a123e604a2e92a4444f3d797ee4.jpg",
+        "ingredients": "1 (28 ounce) can crushed tomatoes (3 cups), 2 tablespoons ground cumin, 1/2-1 teaspoon ground chipotle chile powder, ¼ teaspoon salt, 8 corn tortillas, cut into wedges, 1 (15 ounce) can black beans, rinsed and drained, 1 cup chopped Meal-Prep Sheet-Pan Chicken Thighs (see associated recipe), 2 cups Sautéed Peppers & Onions (see associated recipe), 1 ½ cups shredded Mexican cheese blend (6 ounces), divided",
+        "nutritionalInfo": "Calories ≈ 365 cal, Protein ≈ 21 grams"
+      }
+    }
+  }
+}
